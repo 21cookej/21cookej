@@ -7,8 +7,8 @@
 ## My Projects:
 | Project Name | Description | Link |
 | -------- | ------- | ------- |
-| EaglerforgeBuilder | A builder for Eaglerforge  |  [Link](https://21cookej.github.io/) |
-| My Website | I upload all the big projects on here |  [Link](https://21cookej.github.io/eaglerforgebuilder/) |
+| EaglerforgeBuilder | A builder for Eaglerforge  |  [Link](https://21cookej.github.io/eaglerforgebuilder/) |
+| My Website | I upload all the big projects on here |  [Link](https://21cookej.github.io/) |
 | EaglerForgeInjector | Modding API patching tool for Eaglercraft builds (TeaVM 0.9.2) | [Link](https://github.com/eaglerforge/EaglerForgeInjector/) |
 | Eagler Launcher | I made a Launcher for all versions of Eagler including modded clients |  [Link](https://cool-launcher2.vercel.app) |
 
